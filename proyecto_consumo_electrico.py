@@ -1,3 +1,4 @@
+#Declarar funcion
 def calcular_consumo(power, use_time):
     return power * use_time
 
